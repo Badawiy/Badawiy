@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Badawiy
 - 👀 I’m interested in learning python for data Analysis 
 - 🌱 I’m currently a beginner 
-- 💞️ I’m looking to collaborate on learn python 
+- 💞️ I’m looking to collaborate on learning python 
 - 📫 How to reach me on WhatsApp+2349030611941
 - 😄 Pronouns: He
 - ⚡ Fun fact: love programming 
