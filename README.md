@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Badawiy
+I'll- 👋 Hi, I’m @Badawiy
 - 👀 I’m interested in learning python for data Analysis 
 - 🌱 I’m currently a beginner 
 - 💞️ I’m looking to collaborate on learning python 
